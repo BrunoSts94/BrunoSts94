@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BrunoSts94
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- ✋ Olá , meu nome é Bruno de  Paula dos Santos
+-  👀  Busco uma oportunidade na area de Desenvolvimento front-end.
+-  🌱 Atualmente Curso Análise e Desenvolvimento de Sistemas.
+-
+-  
 
 <!---
 BrunoSts94/BrunoSts94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
