@@ -1,4 +1,4 @@
-# Olá ✋! Meu nome é **Bruno de  Paula dos Santos**
+# Olá ✋!Seja bem-vindo(a) ao meu perfil!**
 ---
 -  👀  Busco uma oportunidade na area de Desenvolvimento front-end.
 -  🌱 Atualmente curso Análise e Desenvolvimento de Sistemas, me formando em 2023.
