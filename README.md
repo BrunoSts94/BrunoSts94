@@ -1,4 +1,4 @@
-# Olá ✋!Seja bem-vindo(a) ao meu perfil!**
+# Olá ✋! Seja bem-vindo(a) ao meu perfil!
 ---
 -  👀  Busco uma oportunidade na area de Desenvolvimento front-end.
 -  🌱 Atualmente curso Análise e Desenvolvimento de Sistemas, me formando em 2023.
