@@ -23,7 +23,7 @@ You can click the Preview link to take a look at your changes.
  
  <br>
  
-  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+  ### Para saber mais, me siga em minhas redes sociais abaixo
  
 <div>
   <a href="https://www.instagram.com/bruno_sts_04/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
