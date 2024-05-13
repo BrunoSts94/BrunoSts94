@@ -1,9 +1,9 @@
 # Olá ✋! Seja bem-vindo(a) ao meu perfil!
 ---
--  👀  Busco uma oportunidade na area de Desenvolvimento front-end.
--  🌱 Atualmente curso Análise e Desenvolvimento de Sistemas, me formando em 2023.
+-  👀  Busco estar sempre evoluindo e aprendendo cada vez mais.
+-  🌱 Cursando formação front-end da Dev Club.
 -  📖 Estudando atualmente para aprofundar meus conhecimentos : 
-HTML, CSS, Javascript, React.
+C#, Javascript e React.
 <!---
 BrunoSts94/BrunoSts94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
